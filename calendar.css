@@ -117,7 +117,7 @@ header .icons span{
  }
  @media screen and (max-width: 450px){
     .current-date{
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
 
     .calendar .week li{
