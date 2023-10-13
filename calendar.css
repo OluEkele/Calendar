@@ -19,6 +19,7 @@ body{
     margin: 100px auto;
     background-color: #f3f3f3;
     border-radius: 8px;
+    box-shadow: -10px 10px 5px  rgb(8, 6, 6);
 }
 header{
     display: flex;
